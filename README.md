@@ -10,11 +10,15 @@ Unit 3. Hello, world!로 시작하기
 
 Unit 4. 기본 문법 알아보기
 
+[1-4]핵심정리 https://dojang.io/mod/page/view.php?id=2168
+
 Unit 5. 숫자 계산하기
 
 Unit 6. 변수와 입력 사용하기
 
 Unit 7. 출력 방법 알아보기
+
+[5-7]핵심정리 https://dojang.io/mod/page/view.php?id=2189
 
 Unit 8. 불과 비교, 논리 연산자 알아보기
 
@@ -25,3 +29,5 @@ Unit 10. 리스트와 튜플 사용하기
 Unit 11. 시퀀스 자료형 활용하기
 
 Unit 12. 딕셔너리 사용하기
+
+[8-12]핵심정리 https://dojang.io/mod/page/view.php?id=2218
