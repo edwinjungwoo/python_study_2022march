@@ -31,3 +31,18 @@ Unit 11. 시퀀스 자료형 활용하기
 Unit 12. 딕셔너리 사용하기
 
 [8-12]핵심정리 https://dojang.io/mod/page/view.php?id=2218
+Unit 13. if 조건문으로 특정 조건일 때 코드 실행하기
+
+Unit 14. else를 사용하여 두 방향으로 분기하기
+
+Unit 15. elif를 사용하여 여러 방향으로 분기하기
+
+[13-15]핵심 정리 https://dojang.io/mod/page/view.php?id=2239
+
+Unit 16. for 반복문으로 Hello, world! 100번 출력하기
+
+Unit 17. while 반복문으로 Hello, world! 100번 출력하기
+
+Unit 18. break, continue로 반복문 제어하기
+
+Unit 19. 계단식으로 별 출력하기
