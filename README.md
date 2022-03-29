@@ -31,6 +31,7 @@ Unit 11. 시퀀스 자료형 활용하기
 Unit 12. 딕셔너리 사용하기
 
 [8-12]핵심정리 https://dojang.io/mod/page/view.php?id=2218
+
 Unit 13. if 조건문으로 특정 조건일 때 코드 실행하기
 
 Unit 14. else를 사용하여 두 방향으로 분기하기
