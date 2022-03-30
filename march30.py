@@ -1,4 +1,3 @@
-
 # FizzBuzz 문제
 for i in range(1,101):
     if i%3 == 0 and i%5 == 0:
@@ -62,3 +61,32 @@ a.insert(인덱스, 요소) #특정 인덱스에 요소 추가
 # ㄴ(인덱스에 len(a)시 마지막 인덱스보다 크기 때문에 리스트 끝에 추가할 때 자주 활용)
 a.pop() #마지막 요소 삭제, 인덱스 지정도 가능
 a.remove(값) #리스트에서 특정 값 찾아내 삭제
+a.count(요소) #리스트 내 요소의 개수를 반환
+a.reverse() #리스트에서 요소의 순서를 반대로 뒤집음
+a.sort() #리스트 요소를 오름차순으로 정렬 (Reverse = True 시, 내림차순 정렬)
+# * sorted() 함수는 정렬된 새 리스트를 생성
+a.clear() #리스트 모든 요소 삭제
+# 22.2
+a = [0, 0, 0, 0, 0]
+b = a.copy()
+# a is b 는 False 반환하지만 a == b 는 True 반환
+
+# for 반복문에서 인덱스로 요소 출력
+a = [38, 21, 53, 62, 19]
+for i in range(len(a)):
+    print(a[i])
+
+# 리스트 컴프리헨션 - 리스트 표현식, 리스트 안에 식, for 반복문 등 지정
+a = [i for i in range(10)] # 0부터 9까지 숫자 생성해 리스트 생성
+a = [i for i in range(10) if i % 2 ==0]
+
+# 리스트에 map 사용
+a = list(map(str, range(10)))
+print(a)
+
+ # 22.10 문제
+a, b = map(int, input().split())
+c = [2**i for i in range(a, b+1)]
+del c[1]
+del c[-2]
+print(c)
