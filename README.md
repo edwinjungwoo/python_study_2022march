@@ -47,3 +47,11 @@ Unit 17. while 반복문으로 Hello, world! 100번 출력하기
 Unit 18. break, continue로 반복문 제어하기
 
 Unit 19. 계단식으로 별 출력하기
+
+Unit 20. FizzBuzz 문제
+
+Unit 21. 터틀 그래픽스로 그림 그리기
+
+[16-21]핵심 정리 https://dojang.io/mod/page/view.php?id=2279
+
+Unit 22. 리스트와 튜플 응용하기
