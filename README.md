@@ -55,3 +55,5 @@ Unit 21. 터틀 그래픽스로 그림 그리기
 [16-21]핵심 정리 https://dojang.io/mod/page/view.php?id=2279
 
 Unit 22. 리스트와 튜플 응용하기
+
+Unit 23. 2차원 리스트 사용하기
