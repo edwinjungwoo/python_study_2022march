@@ -62,3 +62,24 @@ for i in range(col):
             print(cnt, end='')
     print()
 
+# 문자열 조작하기
+
+s = 'Hello, world!'
+print(s.replace('world', 'Python'))
+
+# .replace('바꿀 문자열', '새문자열') 메소드 사용
+# .split('기준문자열'): 기준 문자열 지정시 기준 문자열로 문자열 분리
+# ' '.join(리스트): 리스트 내 요소들을 연결해 문자열로 만듦(문자 열 사이에 ' '공백 삽입)
+a = '-'.join(['apple', 'pear', 'grape', 'pineapple', 'orange'])
+print(a)
+
+# 대문자화upper(), 소문자화lower()
+# .strip(): 양쪽 공백 삭제 (lstrip: 좌측, rstrip: 우측)
+print(', python.'.strip(' ,.')) #strip()안의 ' ', ',', '.' 모두 삭제
+# 문자정렬 .ljust() .rjust() .center()
+# 체이닝 가능 ex. 'python'.rjust(10).upper()
+'35'.zfill(4) # 공백 아닌 0으로 채움
+# 문자열 위치 찾기
+'apple pineapple'.index('pl') #가장 먼저 찾은 문자열의 인덱스 반환
+# 문자열 개수 세기
+'apple pineapple'.count('pl') #개수 제공
